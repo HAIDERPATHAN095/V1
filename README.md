@@ -1,1 +1,1 @@
-# V1
+[ { "version":"1.2", "aviso":"BELLARA BLRX VIP", "massage":"INJECTOR EXPIRED UPDATE THE INJECTOR\n\nUPDATED INJECTOR AVAILABLE ON CHANNEL BELLARA BLRX\n\nADDED MORE NEW FEATURES\n\nTHANK YOU GUYS", "title":"BELLARA BLRX V2", "switch10":"AIMBOT (BELLARA)", "update":"UPDATE NOW", "link2":"https://youtu.be/tib-Obq5txE", "link":"https://youtu.be/tib-Obq5txE" } ]
